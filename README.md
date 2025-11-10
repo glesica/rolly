@@ -1,3 +1,5 @@
+![Rolly Mascot](mascot.png)
+
 # Rolly
 
 Rolling dice the boring way.
