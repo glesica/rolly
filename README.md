@@ -86,3 +86,11 @@ the available themes can be listed with the `themes` command.
 ## Install
 
 Probably easiest from PyPI: https://pypi.org/project/rolly/
+
+I've become kind of a [uv](https://github.com/astral-sh/uv) fanboy recently,
+and you can use that to run Rolly directly, which is slick.
+
+```
+uvx --from rolly rolly roll d20x3
+```
+
