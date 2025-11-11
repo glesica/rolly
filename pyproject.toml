@@ -1,6 +1,6 @@
 [project]
 name = "rolly"
-version = "1.0.0"
+version = "1.0.1"
 description = "Roll dice on the command line because why not?"
 readme = "README.md"
 authors = [
