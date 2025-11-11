@@ -82,3 +82,7 @@ $ python -m rolly roll -ap d20x3
 
 The ASCII art theme can be changed with the `--theme` (`-t`) option and
 the available themes can be listed with the `themes` command.
+
+## Install
+
+Probably easiest from PyPI: https://pypi.org/project/rolly/
